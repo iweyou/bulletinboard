@@ -2,6 +2,7 @@
 	pageEncoding="UTF-8"%>
 
 <%@include file="../include/header.jsp"%>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 
 <!-- Main content -->
 <section class="content">
